@@ -1,7 +1,6 @@
 Continuous Monitoring git repo.
 
-* [ ]  Add gitignore
-* [ ]  Update readme.md
+* [ ]  Create requirements.txt file for this project
 
 ## cmdb
 
